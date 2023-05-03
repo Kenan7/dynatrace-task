@@ -1,5 +1,5 @@
 import unittest
-from app.services import (
+from .services import (
     calculate_exchange_rate_average,
     calculate_exchange_rate_extremes,
     calculate_exchange_rate_diff
